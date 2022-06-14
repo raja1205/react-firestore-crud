@@ -1,6 +1,6 @@
 # My Apps Tracker (CRUD) 
-Building Firestore Database CRUD Web Application using ReactJS and Google Firebase
-CRUD: CRUD is simply an acronym used to refer to four basic operations that can be performed on database applications: Create, Read, Update, and Delete.
+> Building Firestore Database CRUD Web Application using ReactJS and Google Firebase
+> **CRUD**: CRUD is simply an acronym used to refer to four basic operations that can be performed on database applications: Create, Read, Update, and Delete.
 
 Live Demo: https://react-apps-tracker.firebaseapp.com/
 
