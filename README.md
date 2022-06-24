@@ -1,5 +1,5 @@
 # My Apps Tracker (CRUD) 
-> Building Web Application with **CRUD** operations using ReactJS and Google Firebase DB
+> A Web Application with CRUD operations using ReactJS and Google Firebase DB.
 > 
 > **CRUD**: CRUD is simply an acronym used to refer to four basic operations that can be performed on database applications: Create, Read, Update, and Delete.
 
@@ -18,6 +18,5 @@ In this App Tracker, User:
 - Can **DELETE** the Application status completely
 
 
-## Screenshots
-![Example screenshot](./img/screenshot.png)
-
+## Screenshot
+<img src="https://github.com/raja1205/assets/blob/main/my-apps-tracker3.png" style="margin-bottom: 5px;" />
