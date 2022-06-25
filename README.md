@@ -18,4 +18,4 @@ In this App Tracker, User:
 - Can **DELETE** the Application status completely
 
 ## Screenshot
-<img src="https://github.com/raja1205/assets/blob/main/my-apps-tracker3.png" style="margin-bottom: 5px;" />
+<img src="https://github.com/raja1205/assets/blob/main/my-apps-tracker3.jpg" style="margin-bottom: 5px;" />
